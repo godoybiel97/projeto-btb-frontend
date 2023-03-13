@@ -1,6 +1,6 @@
 ![](https://i.imgur.com/xG74tOh.png)
 
-Esse é um repositório base para você começar a acompanhar a live.
+Esse é um repositório base para você aprender alguns fundamentos de JS, TS e React.
 
 Nele você encontrará um projeto com alguns arquivos e pastas importantes, tais como:
 
